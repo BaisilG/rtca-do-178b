@@ -26,6 +26,12 @@ what is rtca
 Formerly known as the Radio Technical Commission for Aeronautics, the RTCA is a private, not-for-profit association that develops consensus-based recommendations on communications, navigation, surveillance, and air traffic management (CNS/ATM) system issues. RTCA acts as a Federal Advisory Committee and works in response to Federal Aviation Administration (FAA) requests to develop comprehensive, industry-vetted and endorsed recommendations on issues ranging from technical performance standards to operational concepts for air transportation. These recommendations may be used by the FAA as the basis for policy, program and regulatory decisions as well as by the private sector as the basis for development, investment and other business decisions.
 
 
+Founded in 1935 as the Radio Technical Commission for Aeronautics and re-incorporated in 1991 as a private not-for-profit corporation, RTCA membership currently includes over 300 government, industry and academic organisations from the United States and around the world. Member organisations represent all facets of the aviation community, including government organizations, airlines, airspace users and airport associations, trade unions as well as aviation service and equipment suppliers. The US domestic membership includes the Federal Aviation Administration, the Air Line Pilots Association, Airlines for America, the Aircraft Owners and Pilots Association, ARINC Incorporated, the Boeing Company, the Department of Defense, GARMIN International, Rockwell International, Stanford University, Lockheed Martin, the MIT Lincoln Laboratory, the MITRE Corporation, the Harris Corporation, National Aeronautics and Space Administration, the National Business Aviation Association and Raytheon.
+
+
+
+
+
 
 
 
