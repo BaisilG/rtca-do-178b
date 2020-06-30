@@ -1,2 +1,10 @@
 rtca do-178b Introduction
 
+
+software Considerations in Airborne Systems and Equipment Certification
+
+* Published in December 1993 (Errata 1999)
+* software will perform reliably in airborne envirnoments
+* worldwide avionics software guildlines to which all airbrne software is required to comply.
+* software levels (design assurance level - DALs E-A)
+
