@@ -21,6 +21,12 @@ It was jointly developed by the safety-critical working group RTCA SC-167 of RTC
 
 
 
+what is rtca 
+
+Formerly known as the Radio Technical Commission for Aeronautics, the RTCA is a private, not-for-profit association that develops consensus-based recommendations on communications, navigation, surveillance, and air traffic management (CNS/ATM) system issues. RTCA acts as a Federal Advisory Committee and works in response to Federal Aviation Administration (FAA) requests to develop comprehensive, industry-vetted and endorsed recommendations on issues ranging from technical performance standards to operational concepts for air transportation. These recommendations may be used by the FAA as the basis for policy, program and regulatory decisions as well as by the private sector as the basis for development, investment and other business decisions.
+
+
+
 
 
 
